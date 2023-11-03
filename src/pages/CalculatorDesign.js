@@ -24,7 +24,7 @@ const CalculatorDesign = () => {
   return (
     <div>
 
-      <div className="h-[650px] w-[500px] bg-black mt-10 ml-[450px]">
+      <div className="h-[650px] w-[500px] bg-black mt-10 lg:ml-[450px]">
         <div>
 
           <form>
