@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background: #4C4646;
+.fa-delete-left,
+.fa-divide {
+  color:
+    #e65f78;
 }
