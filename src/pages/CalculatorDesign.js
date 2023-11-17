@@ -39,7 +39,7 @@ const CalculatorDesign = () => {
         <button onClick={backspace} id="backspace" className="w-[70px] h-[50px] bg-gray-700 rounded-lg shadow-2xl text-white text-[30px]" ><i class="fa-solid fa-delete-left"></i></button>
         <button className="w-[70px] h-[50px] bg-gray-700 rounded-lg shadow-2xl text-white text-[30px]"><i class="fa-solid fa-divide"></i></button>
         <button name="*" onClick={handleClick} className="w-[70px] h-[50px] bg-gray-700 rounded-lg shadow-2xl text-[#e65f78] text-[30px] ">*</button>
-        <button name="7" onClick={handleClick} className="w-[70px] h-[50px] text-[#0 bg-gray-700 rounded-lg shadow-2xl0FFFF] text-[30px]">7</button>
+        <button name="7" onClick={handleClick} className="w-[70px] h-[50px] text-[#00FFFF] bg-gray-700 rounded-lg shadow-2xl0FFFF] text-[30px]">7</button>
         <button name="8" onClick={handleClick} className="w-[70px] h-[50px]  bg-gray-700 rounded-lg shadow-2xl text-[#00FFFF] text-[30px]">8</button>
         <button name="9" onClick={handleClick} className="w-[70px] h-[50px]  bg-gray-700 rounded-lg shadow-2xl text-[#00FFFF] text-[30px]">9</button>
         <button name="-" onClick={handleClick} className="w-[70px] h-[50px]  bg-gray-700 rounded-lg shadow-2xl text-[#e65f78] text-[30px]">-</button>
